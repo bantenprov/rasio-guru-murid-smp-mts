@@ -4,60 +4,20 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "yyyy": "2012",
-      "index": "Banten-2012",
-      "data": [
-        "Angkatan Kerja",
-        "Rasio Guru Murid SMP MTs"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          5.59,
-          5.09        
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2012",
-      "index": "Indonesia-2012",
-      "data": [
-        "Angkatan Kerja",
-        "Rasio Guru Murid SMP MTs"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          119.85,
-          112.5
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Provinsi",
-      "name": "Banten",
       "yyyy": "2013",
       "index": "Banten-2013",
       "data": [
-        "Angkatan Kerja",
-        "Rasio Guru Murid SMP MTs"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/MTs ",
+        "RGM SMP/MTs "
       ]
     },
     "series": [
       {
         "data": [
-          5.59,
-          5.09
+          30193,
+          638032,
+          473
         ]
       }
     ]
@@ -65,20 +25,22 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "name": "Indonesia",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
       "yyyy": "2013",
-      "index": "Indonesia-2013",
+      "index": "Kabupaten-Pandeglang-2013",
       "data": [
-        "Angkatan Kerja",
-        "Rasio Guru Murid SMP MTs"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/MTs ",
+        "RGM SMP/MTs "
       ]
     },
     "series": [
       {
         "data": [
-          120.17,
-          112.76
+          4955,
+          65932,
+          752
         ]
       }
     ]
@@ -86,20 +48,22 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2014",
-      "index": "Banten-2014",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "yyyy": "2013",
+      "index": "Kabupaten-Lebak-2013",
       "data": [
-        "Angkatan Kerja",
-        "Rasio Guru Murid SMP MTs"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/MTs ",
+        "RGM SMP/MTs "
       ]
     },
     "series": [
       {
         "data": [
-          5.34,
-          4.86          
+          4926,
+          69644,
+          707
         ]
       }
     ]
@@ -107,20 +71,22 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2014",
-      "index": "Indonesia-2014",
+      "region": "Kabupaten",
+      "name": "Tangerang",
+      "yyyy": "2013",
+      "index": "Kabupaten-Tangerang-2013",
       "data": [
-        "Angkatan Kerja",
-        "Rasio Guru Murid SMP MTs"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/MTs ",
+        "RGM SMP/MTs "
       ]
     },
     "series": [
       {
         "data": [
-          121.87,
-          114.63
+          6860,
+          172156,
+          398
         ]
       }
     ]
@@ -128,20 +94,22 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2015",
-      "index": "Banten-2015",
+      "region": "Kabupaten",
+      "name": "Serang",
+      "yyyy": "2013",
+      "index": "Kabupaten-Serang-2013",
       "data": [
-        "Angkatan Kerja",
-        "Rasio Guru Murid SMP MTs"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/MTs ",
+        "RGM SMP/MTs "
       ]
     },
     "series": [
       {
         "data": [
-          5.34,
-          4.86          
+          3971,
+          81634,
+          486
         ]
       }
     ]
@@ -149,20 +117,22 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2015",
-      "index": "Indonesia-2015",
+      "region": "Kota",
+      "name": "Tangerang",
+      "yyyy": "2013",
+      "index": "Kota-Tangerang-2013",
       "data": [
-        "Angkatan Kerja",
-        "Rasio Guru Murid SMP MTs"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/MTs ",
+        "RGM SMP/MTs "
       ]
     },
     "series": [
       {
         "data": [
-          121.87,
-          114.63
+          3317,
+          109695,
+          302
         ]
       }
     ]
@@ -170,20 +140,22 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2016",
-      "index": "Banten-2016",
+      "region": "Kota",
+      "name": "Cilegon",
+      "yyyy": "2013",
+      "index": "Kota-Cilegon-2013",
       "data": [
-        "Angkatan Kerja",
-        "Rasio Guru Murid SMP MTs"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/MTs ",
+        "RGM SMP/MTs "
       ]
     },
     "series": [
       {
         "data": [
-          5.59,
-          5.09
+          1958,
+          22387,
+          875
         ]
       }
     ]
@@ -191,20 +163,45 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2016",
-      "index": "Indonesia-2016",
+      "region": "Kota",
+      "name": "Serang",
+      "yyyy": "2013",
+      "index": "Kota-Serang-2013",
       "data": [
-        "Angkatan Kerja",
-        "Rasio Guru Murid SMP MTs"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/MTs ",
+        "RGM SMP/MTs "
       ]
     },
     "series": [
       {
         "data": [
-          125.44,
-          118.41
+          1424,
+          36092,
+          395
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Kota",
+      "name": "Tangerang-Selatan",
+      "yyyy": "2013",
+      "index": "Kota-Tangerang-Selatan-2013",
+      "data": [
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/MTs ",
+        "RGM SMP/MTs "
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2782,
+          80492,
+          346
         ]
       }
     ]
