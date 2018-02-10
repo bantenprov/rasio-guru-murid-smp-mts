@@ -8,7 +8,7 @@ use Illuminate\Database\Eloquent\SoftDeletes;
 class RasioGMSmpMts extends Model
 {
 
-    protected $table = 'rasio-guru-murid-smp-mtss';
+    protected $table = 'rasio_guru_murid_smp_mts';
     public $timestamps = true;
 
     use SoftDeletes;
