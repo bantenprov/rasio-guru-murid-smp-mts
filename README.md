@@ -124,7 +124,7 @@ children: [
         },
         //== ...
         {
-          name: 'Rasio Guru-Murid (RGM) SD/MI',
+          name: 'Rasio Guru-Murid (RGM) SMP/MTs',
           link: '/dashboard/rasio-guru-murid-smp-mts',
           icon: 'fa fa-angle-double-right'
         }
