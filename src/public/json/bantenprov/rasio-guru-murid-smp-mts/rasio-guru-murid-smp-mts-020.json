@@ -1,104 +1,322 @@
 [
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
+      "title": "Rasio Guru-Murid Kabupaten Pandeglang 2013",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
-        "2013",
-        "2014",
-        "2015"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
       ]
     },
     "series": [
       {
         "data": [
-          30193,
-          30193,
-          42327
+          4955, 
+          65932
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
+      "title": "Rasio Guru-Murid Kabupaten Lebak 2013",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
-        "2013",
-        "2014",
-        "2015"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
       ]
     },
     "series": [
       {
         "data": [
-          638032,
-          620677,
-          450593
+          4926, 
+          69644
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "RGM SMP/MTs ",
+      "title": "Rasio Guru-Murid Kabupaten Tangerang 2013",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
-        "2013",
-        "2014",
-        "2015"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
       ]
     },
     "series": [
       {
         "data": [
-          473,
-          486,
-          8083
+          6860, 
+          172156 
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
+      "title": "Rasio Guru-Murid Kabupaten Serang 2013",
+      "region": "Provinsi",
+      "name": "Banten",
       "data": [
-        "2013",
-        "2014",
-        "2015"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
       ]
     },
     "series": [
       {
         "data": [
-          4955,
-          5253,
-          10593
+          3971, 
+          81634 
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
+      "title": "Rasio Guru-Murid Kota Tangerang 2013",
+      "region": "Provinsi",
+      "name": "Banten",
       "data": [
-        "2013",
-        "2014",
-        "2015"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
       ]
     },
     "series": [
       {
         "data": [
-          65932,
-          72662,
+          3317, 
+          109695 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Rasio Guru-Murid Kota Cilegon 2013",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1958, 
+          22387 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Rasio Guru-Murid Kota Serang 2013",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1424, 
+          36092 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Rasio Guru-Murid Kota Tangerang Selatan 2013",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2782, 
+          80492 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Rasio Guru-Murid Kabupaten Pandeglang 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5253, 
+          72662
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Rasio Guru-Murid Kabupaten Lebak 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4694, 
+          76632
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Rasio Guru-Murid Kabupaten Tangerang 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          6705, 
+          170545 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Rasio Guru-Murid Kabupaten Serang 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          3976, 
+          87879 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Rasio Guru-Murid Kota Tangerang 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          3499, 
+          85916 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Rasio Guru-Murid Kota Cilegon 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1791, 
+          22553 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Rasio Guru-Murid Kota Serang 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1859, 
+          37862 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Rasio Guru-Murid Kota Tangerang Selatan 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          2416, 
+          66628 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Rasio Guru-Murid Kabupaten Pandeglang 2015",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          10593, 
           47606
         ]
       }
@@ -106,188 +324,56 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMP/MTs ",
-      "region": "Kabupaten",
-      "name": "Pandeglang",
+      "title": "Rasio Guru-Murid Kabupaten Lebak 2015",
+      "region": "Provinsi",
+      "name": "Banten",
       "data": [
-        "2013",
-        "2014",
-        "2015"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
       ]
     },
     "series": [
       {
         "data": [
-          752,
-          723,
-          2225
+          6322, 
+          55077 
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
-      "region": "Kabupaten",
-      "name": "Lebak",
+      "title": "Rasio Guru-Murid Kabupaten Tangerang 2015",
+      "region": "Provinsi",
+      "name": "Banten",
       "data": [
-        "2013",
-        "2014",
-        "2015"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
       ]
     },
     "series": [
       {
         "data": [
-          4926,
-          4694,
-          6322
+          11284, 
+          135946 
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
-      "region": "Kabupaten",
-      "name": "Lebak",
+      "title": "Rasio Guru-Murid Kabupaten Serang 2015",
+      "region": "Provinsi",
+      "name": "Banten",
       "data": [
-        "2013",
-        "2014",
-        "2015"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
       ]
     },
     "series": [
       {
         "data": [
-          69644,
-          76632,
-          55077
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "RGM SMP/MTs ",
-      "region": "Kabupaten",
-      "name": "Lebak",
-      "data": [
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          707,
-          613,
-          1148
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
-      "region": "Kabupaten",
-      "name": "Tangerang",
-      "data": [
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          6860,
-          6705,
-          11284
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
-      "region": "Kabupaten",
-      "name": "Tangerang",
-      "data": [
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          172156,
-          170545,
-          135946
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "RGM SMP/MTs ",
-      "region": "Kabupaten",
-      "name": "Tangerang",
-      "data": [
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          398,
-          393,
-          830
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
-      "region": "Kabupaten",
-      "name": "Serang",
-      "data": [
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          3971,
-          3976,
-          3976
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
-      "region": "Kabupaten",
-      "name": "Serang",
-      "data": [
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          81634,
-          87879,
+          3976, 
           58035
         ]
       }
@@ -295,62 +381,18 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMP/MTs ",
-      "region": "Kabupaten",
-      "name": "Serang",
+      "title": "Rasio Guru-Murid Kota Tangerang 2015",
+      "region": "Provinsi",
+      "name": "Banten",
       "data": [
-        "2013",
-        "2014",
-        "2015"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
       ]
     },
     "series": [
       {
         "data": [
-          486,
-          452,
-          685
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
-      "region": "Kota",
-      "name": "Tangerang",
-      "data": [
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          3317,
-          3499,
-          3499
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
-      "region": "Kota",
-      "name": "Tangerang",
-      "data": [
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          109695,
-          85916,
+          3499, 
           68928
         ]
       }
@@ -358,210 +400,57 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMP/MTs ",
-      "region": "Kota",
-      "name": "Tangerang",
+      "title": "Rasio Guru-Murid Kota Cilegon 2015",
+      "region": "Provinsi",
+      "name": "Banten",
       "data": [
-        "2013",
-        "2014",
-        "2015"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
       ]
     },
     "series": [
       {
         "data": [
-          302,
-          407,
-          508
+          1938, 
+          15129  
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
-      "region": "Kota",
-      "name": "Cilegon",
+      "title": "Rasio Guru-Murid Kota Serang 2015",
+      "region": "Provinsi",
+      "name": "Banten",
       "data": [
-        "2013",
-        "2014",
-        "2015"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
       ]
     },
     "series": [
       {
         "data": [
-          1958,
-          1791,
-          1938
+          2299, 
+          27467 
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
-      "region": "Kota",
-      "name": "Cilegon",
+      "title": "Rasio Guru-Murid Kota Tangerang Selatan 2015",
+      "region": "Provinsi",
+      "name": "Banten",
       "data": [
-        "2013",
-        "2014",
-        "2015"
+        "Jumlah Guru SMP/MTs ",
+        "Jumlah Murid SMP/Mts"
       ]
     },
     "series": [
       {
         "data": [
-          22387,
-          22553,
-          15129
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "RGM SMP/MTs ",
-      "region": "Kota",
-      "name": "Cilegon",
-      "data": [
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          875,
-          794,
-          1281
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
-      "region": "Kota",
-      "name": "Serang",
-      "data": [
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          1424,
-          1859,
-          2299
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
-      "region": "Kota",
-      "name": "Serang",
-      "data": [
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          36092,
-          37862,
-          27467
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "RGM SMP/MTs ",
-      "region": "Kota",
-      "name": "Serang",
-      "data": [
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          395,
-          491,
-          837
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
-      "region": "Kota",
-      "name": "Tangerang Selatan",
-      "data": [
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          2782,
-          2416,
-          2416
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
-      "region": "Kota",
-      "name": "Tangerang Selatan",
-      "data": [
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          80492,
-          66628,
+          2416, 
           42405
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "RGM SMP/MTs ",
-      "region": "Kota",
-      "name": "Tangerang Selatan",
-      "data": [
-        "2013",
-        "2014",
-        "2015"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          346,
-          363,
-          570
         ]
       }
     ]

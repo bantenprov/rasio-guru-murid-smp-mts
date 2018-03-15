@@ -1,7 +1,7 @@
 [
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
+      "title": "Jumlah Guru SMP/MTs Provinsi Banten ",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
@@ -22,7 +22,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
+      "title": "Jumlah Murid SMP/MTs Provinsi Banten ",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
@@ -43,7 +43,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMP/MTs ",
+      "title": "RGM SMP/MTs Provinsi Banten",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
@@ -64,7 +64,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
+      "title": "Jumlah Guru SMP/MTs Kabupaten Pandeglang ",
       "region": "Kabupaten",
       "name": "Pandeglang",
       "data": [
@@ -85,7 +85,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
+      "title": "Jumlah Murid SMP/MTs Kabupaten Pandeglang ",
       "region": "Kabupaten",
       "name": "Pandeglang",
       "data": [
@@ -106,7 +106,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMP/MTs ",
+      "title": "RGM SMP/MTs Kabupaten Pandeglang ",
       "region": "Kabupaten",
       "name": "Pandeglang",
       "data": [
@@ -127,7 +127,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
+      "title": "Jumlah Guru SMP/MTs Kabupaten Lebak ",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -148,7 +148,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
+      "title": "Jumlah Murid SMP/MTs Kabupaten Lebak ",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -169,7 +169,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMP/MTs ",
+      "title": "RGM SMP/MTs Kabupaten Lebak",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -190,7 +190,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
+      "title": "Jumlah Guru SMP/MTs Kabupaten Tangerang",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -211,7 +211,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
+      "title": "Jumlah Murid SMP/MTs Kabupaten Tangerang",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -232,7 +232,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMP/MTs ",
+      "title": "RGM SMP/MTs Kabupaten Tangerang",
       "region": "Kabupaten",
       "name": "Tangerang",
       "data": [
@@ -253,7 +253,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
+      "title": "Jumlah Guru SMP/MTs Kabupaten Serang",
       "region": "Kabupaten",
       "name": "Serang",
       "data": [
@@ -274,7 +274,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
+      "title": "Jumlah Murid SMP/MTs Kabupaten Serang",
       "region": "Kabupaten",
       "name": "Serang",
       "data": [
@@ -295,7 +295,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMP/MTs ",
+      "title": "RGM SMP/MTs Kabupaten Serang",
       "region": "Kabupaten",
       "name": "Serang",
       "data": [
@@ -316,7 +316,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
+      "title": "Jumlah Guru SMP/MTs Kota Tangerang ",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -337,7 +337,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
+      "title": "Jumlah Murid SMP/MTs Kota Tangerang",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -358,7 +358,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMP/MTs ",
+      "title": "RGM SMP/MTs Kota Tangerang",
       "region": "Kota",
       "name": "Tangerang",
       "data": [
@@ -379,7 +379,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
+      "title": "Jumlah Guru SMP/MTs Kota Cilegon",
       "region": "Kota",
       "name": "Cilegon",
       "data": [
@@ -400,7 +400,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
+      "title": "Jumlah Murid SMP/MTs Kota Cilegon",
       "region": "Kota",
       "name": "Cilegon",
       "data": [
@@ -421,7 +421,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMP/MTs ",
+      "title": "RGM SMP/MTs Kota Cilegon",
       "region": "Kota",
       "name": "Cilegon",
       "data": [
@@ -442,7 +442,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
+      "title": "Jumlah Guru SMP/MTs Kota Serang",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -463,7 +463,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
+      "title": "Jumlah Murid SMP/MTs Kota Serang",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -484,7 +484,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMP/MTs ",
+      "title": "RGM SMP/MTs Kota Serang",
       "region": "Kota",
       "name": "Serang",
       "data": [
@@ -505,7 +505,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Guru SMP/MTs ",
+      "title": "Jumlah Guru SMP/MTs Kota Tangerang Selatan",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
@@ -526,7 +526,7 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Murid SMP/MTs ",
+      "title": "Jumlah Murid SMP/MTs Kota Tangerang Selatan",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
@@ -547,7 +547,7 @@
   },
   {
     "xAxis": {
-      "category": "RGM SMP/MTs ",
+      "title": "RGM SMP/MTs Kota Tangerang Selatan",
       "region": "Kota",
       "name": "Tangerang Selatan",
       "data": [
